@@ -1,6 +1,6 @@
 # 全栈第一步
 
-> vue(全家桶)+node(express)+mongodb(mongoose)+阿里云(cenOS)部署+域名上线，前后端分离博客
+> vue(全家桶)+node(express)+mongodb(mongoose)，前后端分离
 
 
 # 项目介绍
